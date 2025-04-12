@@ -1,2 +1,2 @@
 # school-java
-java projects
+slim and java projects
