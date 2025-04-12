@@ -1,9 +1,9 @@
 # school-java
 slim and java projects
 
-Introduces Java as the primary language, transitioning from Python
+Transition from Python to Java
 Emphasizes object-oriented programming and analysis
-Reviews foundational Java concepts to get students up to speed
+Reviews foundational Java concepts
 
 Covers:
 Algorithm efficiency and analysis
